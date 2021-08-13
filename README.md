@@ -2,6 +2,12 @@
 
 Files I produced during the "Observability / Prometheus" classes of my microservices course.
 
+## First steps
+
+```sh
+docker-compose up  # Run all services
+```
+
 ## Prometheus
 
 Access http://localhost:9090.
