@@ -56,7 +56,7 @@ go run main.go
 Open another terminal outside the container and run:
 
 ```sh
-for i in {1..20}; do curl localhost:8181; done  # Run curl 20 times
+for i in {1..20}; do curl localhost:8181; done
 curl localhost:8181/metrics
 ```
 
